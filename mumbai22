@@ -3,3 +3,4 @@ class HelloWorld {
         System.out.println("Ashishanand, World!"); 
     }
 }
+print("manitaashish")
